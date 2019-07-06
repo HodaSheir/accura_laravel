@@ -19,3 +19,4 @@ Auth::routes();
 
 Route::get('/', 'HomeController@index')->name('home');
 Route::get('/home','DashboardController@index');
+Route::resource('item', 'ItemController');

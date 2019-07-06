@@ -3,12 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/var/www/html/accura_laravel/app/Http/Controllers/DashboardController.php</file>
             <file>file:/var/www/html/accura_laravel/resources/views/dashboard/home.blade.php</file>
-            <file>file:/var/www/html/accura_laravel/composer.json</file>
+            <file>file:/var/www/html/accura_laravel/app/Http/Controllers/ItemController.php</file>
             <file>file:/var/www/html/accura_laravel/routes/web.php</file>
-            <file>file:/var/www/html/accura_laravel/config/app.php</file>
-            <file>file:/var/www/html/accura_laravel/app/Http/Controllers/HomeController.php</file>
+            <file>file:/var/www/html/accura_laravel/resources/views/item/create.blade.php</file>
         </group>
     </open-files>
 </project-private>
